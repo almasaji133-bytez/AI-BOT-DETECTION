@@ -2,7 +2,7 @@
 data/raw/
 
 # Processed datasets
-data/processed/
+# Keep processed feature files in Git
 
 # Python
 __pycache__/
