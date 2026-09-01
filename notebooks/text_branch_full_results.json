@@ -1,0 +1,23 @@
+{
+  "dataset_size": "10197 accounts (full dataset)",
+  "random_split": {
+    "logistic_regression_val_accuracy": 0.9889,
+    "svm_val_accuracy": 0.9935,
+    "bilstm_v1_test_accuracy": 0.9588,
+    "bilstm_v2_test_accuracy": 0.9634
+  },
+  "cross_type_test": {
+    "held_out": "fake_followers",
+    "accuracy": 0.6699744825630848,
+    "precision": 0.99755859375,
+    "recall": 0.6380387257963772,
+    "f1": 0.7782857142857142
+  },
+  "temporal_test": {
+    "cutoff": "2014-01-01",
+    "accuracy": 0.9931895573212258,
+    "precision": 0.9994160583941606,
+    "recall": 0.9936139332365748,
+    "f1": 0.9965065502183406
+  }
+}
