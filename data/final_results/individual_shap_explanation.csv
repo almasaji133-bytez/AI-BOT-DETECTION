@@ -1,0 +1,16 @@
+Feature,Feature Value,SHAP Value,Direction,Absolute SHAP
+friends_followers_ratio,138.33333333333334,0.1665698000369747,Pushes toward BOT,0.1665698000369747
+log_favourites_count,0.0,0.07911547575655137,Pushes toward BOT,0.07911547575655137
+account_age_days,942.6110416666668,0.07233675463023617,Pushes toward BOT,0.07233675463023617
+log_followers_count,1.3862943611198906,-0.030155002786112776,Pushes toward GENUINE,0.030155002786112776
+log_statuses_count,0.6931471805599453,0.011010398221592905,Pushes toward BOT,0.011010398221592905
+followers_count,3,0.004733146982504043,Pushes toward BOT,0.004733146982504043
+statuses_count,1,-0.0047004899840260225,Pushes toward GENUINE,0.0047004899840260225
+favorites_per_status,0.0,0.004168773628141759,Pushes toward BOT,0.004168773628141759
+friends_count,415,-0.0033334014517519364,Pushes toward GENUINE,0.0033334014517519364
+followers_friends_ratio,0.0072289156626506,0.0008502822331754034,Pushes toward BOT,0.0008502822331754034
+favourites_count,0,0.0,Pushes toward GENUINE,0.0
+statuses_per_day,0.0010608829684743,0.0,Pushes toward GENUINE,0.0
+listed_count,0,0.0,Pushes toward GENUINE,0.0
+log_friends_count,6.030685260261263,0.0,Pushes toward GENUINE,0.0
+log_listed_count,0.0,0.0,Pushes toward GENUINE,0.0

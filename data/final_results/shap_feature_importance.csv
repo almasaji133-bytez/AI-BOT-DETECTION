@@ -1,0 +1,16 @@
+Feature,Mean_Absolute_SHAP
+log_favourites_count,0.3207006438717687
+account_age_days,0.10899558519773864
+friends_followers_ratio,0.03719688000262356
+favorites_per_status,0.02605142531263671
+log_followers_count,0.0171725184493912
+log_statuses_count,0.014659651835459976
+log_friends_count,0.012602867418045829
+log_listed_count,0.008304337217894975
+statuses_per_day,0.00789355525076858
+friends_count,0.007774709820986576
+favourites_count,0.005478330880789044
+statuses_count,0.005388514769098138
+listed_count,0.0034335132829409433
+followers_count,0.002943810542233578
+followers_friends_ratio,0.002189123014526752
